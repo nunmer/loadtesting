@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Distributing computing.iml" filepath="$PROJECT_DIR$/.idea/Distributing computing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dc-course/examples/SyncExample/SyncExample.iml" filepath="$PROJECT_DIR$/dc-course/examples/SyncExample/SyncExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dc-course/examples/ThreadHello/ThreadHello.iml" filepath="$PROJECT_DIR$/dc-course/examples/ThreadHello/ThreadHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dc-course/examples/ThreadSync/ThreadSync.iml" filepath="$PROJECT_DIR$/dc-course/examples/ThreadSync/ThreadSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dc-course/examples/WebClient/WebClient.iml" filepath="$PROJECT_DIR$/dc-course/examples/WebClient/WebClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dc-course/examples/WebServer/WebServer.iml" filepath="$PROJECT_DIR$/dc-course/examples/WebServer/WebServer.iml" />
+    </modules>
+  </component>
+</project>
